@@ -1,8 +1,3 @@
-# kodr.pro
-
-> Building tools for developers
-***
-
 ## Projects
 
 ### [Seekr](https://github.com/kodr-pro/seekr)
