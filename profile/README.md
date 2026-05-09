@@ -1,5 +1,9 @@
 ## Projects
 
+### [Divechain](https://github.com/kodr-pro/DiveChain)
+**Sovereign, on-chain dive logs** with cryptographic attestation  
+Your dive history, forever. No registries, no silos. (Currently under review as ERC-1735)
+
 ### [Seekr](https://github.com/kodr-pro/seekr)
 **Rust CLI AI agent manager** with multi-provider LLM support  
 Self-hosted, privacy-focused AI orchestration
@@ -15,7 +19,7 @@ Seamless AI agent integration directly in your editor
 - **AI Agents** — Multi-provider LLM orchestration with local-first architecture
 - **CLI Tools** — Fast, self-hosted Rust binaries
 - **Editor Plugins** — Neovim integrations that actually work
-- **Blockchain** — Web3 gaming infrastructure on Avalanche
+- **Blockchain** — ERC standards, smart contracts, and Web3 gaming infrastructure
 
 ***
 
