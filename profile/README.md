@@ -2,7 +2,7 @@
 
 ### [Divechain](https://github.com/kodr-pro/DiveChain)
 **Sovereign, on-chain dive logs** with cryptographic attestation  
-Your dive history, forever. No registries, no silos. (Currently under review as ERC-1735)
+Your dive history, forever. No registries, no silos. (Currently under review as ERC-<TBD>)
 
 ### [Seekr](https://github.com/kodr-pro/seekr)
 **Rust CLI AI agent manager** with multi-provider LLM support  
