@@ -1,25 +1,29 @@
 ## Projects
 
-### [Divechain](https://github.com/kodr-pro/DiveChain)
-**Sovereign, on-chain dive logs** with cryptographic attestation  
-Your dive history, forever. No registries, no silos. (Currently under review as ERC-<TBD>)
+### [DiveChain](https://github.com/BradMyrick/DiveChain-pro)
+**Immutable, on-chain dive logs** for professional and recreational divers  
+No databases to delete. No services to shut down. Your dive history, forever.
 
-### [Seekr](https://github.com/kodr-pro/seekr)
-**Rust CLI AI agent manager** with multi-provider LLM support  
+### [seekr](https://github.com/kodr-pro/seekr)
+**AI Agent Manager** designed to transform your terminal into an autonomous system operator  
 Self-hosted, privacy-focused AI orchestration
 
-### [seekr.nvim](https://github.com/kodr-pro/seekr.nvim)
-**Neovim plugin** for Seekr  
-Seamless AI agent integration directly in your editor
+### [AiWrangler](https://github.com/kodr-pro/AiWrangler)
+**Coding guardrail system** powered by Jev  
+Ensures your coding agents respect protocol specs, review rules, and one-way doors.
+
+### [BitVanes](https://github.com/kodr-pro/BitVanes)
+**AI guided code tour** for VS Code  
+Interactive editor extensions for navigating complex codebases.
 
 ***
 
 ## What I Build
 
-- **AI Agents** — Multi-provider LLM orchestration with local-first architecture
+- **AI Agents & Tools** — Multi-provider LLM orchestration, terminal operators, and automated coding guardrails
+- **Editor Extensions** — VS Code extensions and developer workflows that integrate AI seamlessly
 - **CLI Tools** — Fast, self-hosted Rust binaries
-- **Editor Plugins** — Neovim integrations that actually work
-- **Blockchain** — ERC standards, smart contracts, and Web3 gaming infrastructure
+- **Blockchain** — Smart contracts, immutable logs, and decentralized web infrastructure
 
 ***
 
@@ -33,10 +37,10 @@ Seamless AI agent integration directly in your editor
 
 | Languages | Infrastructure | Focus Areas |
 |-----------|---------------|-------------|
-| Rust | Linux (Pop!_OS, Ubuntu) | AI Agents |
-| Go | Docker, VMs | Blockchain |
-| Solidity | NVIDIA CUDA | Web3 Gaming |
-| TypeScript | llama.cpp | Distributed Systems |
+| TypeScript | Linux (Pop!_OS, Ubuntu) | AI Agents |
+| Rust | Docker, VMs | Developer Tooling |
+| Solidity | NVIDIA CUDA | Blockchain |
+| Go | llama.cpp | Distributed Systems |
 
 ***
 
