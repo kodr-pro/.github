@@ -1,29 +1,29 @@
 ## Projects
 
-### [DiveChain](https://github.com/BradMyrick/DiveChain-pro)
-**Immutable, on-chain dive logs** for professional and recreational divers  
-No databases to delete. No services to shut down. Your dive history, forever.
-
 ### [seekr](https://github.com/kodr-pro/seekr)
 **AI Agent Manager** designed to transform your terminal into an autonomous system operator  
 Self-hosted, privacy-focused AI orchestration
 
+### [Rusty-Tuber](https://github.com/kodr-pro/Rusty-Tuber)
+**PNG-Tuber software written in Rust**  
+Highly customizable, lightweight virtual avatar renderer and streaming tool
+
 ### [AiWrangler](https://github.com/kodr-pro/AiWrangler)
 **Coding guardrail system** powered by Jev  
-Ensures your coding agents respect protocol specs, review rules, and one-way doors.
+Ensures your coding agents respect protocol specs, review rules, and one-way doors
 
 ### [BitVanes](https://github.com/kodr-pro/BitVanes)
 **AI guided code tour** for VS Code  
-Interactive editor extensions for navigating complex codebases.
+Interactive editor extensions for navigating complex codebases
 
 ***
 
 ## What I Build
 
 - **AI Agents & Tools** — Multi-provider LLM orchestration, terminal operators, and automated coding guardrails
+- **Developer & Streaming Tools** — High-performance Rust desktop utilities, PNG-Tuber software, and editor plugins
 - **Editor Extensions** — VS Code extensions and developer workflows that integrate AI seamlessly
-- **CLI Tools** — Fast, self-hosted Rust binaries
-- **Blockchain** — Smart contracts, immutable logs, and decentralized web infrastructure
+- **Systems Architecture** — Fast, low-footprint native binaries and distributed systems
 
 ***
 
@@ -37,10 +37,10 @@ Interactive editor extensions for navigating complex codebases.
 
 | Languages | Infrastructure | Focus Areas |
 |-----------|---------------|-------------|
-| TypeScript | Linux (Pop!_OS, Ubuntu) | AI Agents |
-| Rust | Docker, VMs | Developer Tooling |
-| Solidity | NVIDIA CUDA | Blockchain |
-| Go | llama.cpp | Distributed Systems |
+| Rust | Linux (Pop!_OS, Ubuntu) | AI Agents |
+| TypeScript | Docker, VMs | Developer Tooling |
+| Go | NVIDIA CUDA | Streaming & Media Tools |
+| Solidity | llama.cpp | Systems Programming |
 
 ***
 
