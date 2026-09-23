@@ -1,6 +1,6 @@
 ## Projects
 
-### [seekr](https://github.com/kodr-pro/seekr)
+### [Seekr](https://github.com/kodr-pro/seekr)
 **AI Agent Manager** designed to transform your terminal into an autonomous system operator  
 Self-hosted, privacy-focused AI orchestration
 
