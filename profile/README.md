@@ -1,8 +1,8 @@
 ## Projects
 
-### [Seekr](https://github.com/kodr-pro/seekr)
-**AI Agent Manager** designed to transform your terminal into an autonomous system operator  
-Self-hosted, privacy-focused AI orchestration
+### [PeekPeak](https://github.com/kodr-pro/peekpeak)
+**Zero-overhead autonomous keeper engine** native to Avalanche C-Chain & L1s  
+Zero-token tax, pure native gas escrow, and sub-second execution for smart contracts
 
 ### [Rusty-Tuber](https://github.com/kodr-pro/Rusty-Tuber)
 **PNG-Tuber software written in Rust**  
@@ -20,9 +20,9 @@ Interactive editor extensions for navigating complex codebases
 
 ## What I Build
 
+- **Web3 & L1 Middleware** — Zero-token autonomous keepers, smart contract infrastructure, and decentralized execution engines
 - **AI Agents & Tools** — Multi-provider LLM orchestration, terminal operators, and automated coding guardrails
 - **Developer & Streaming Tools** — High-performance Rust desktop utilities, PNG-Tuber software, and editor plugins
-- **Editor Extensions** — VS Code extensions and developer workflows that integrate AI seamlessly
 - **Systems Architecture** — Fast, low-footprint native binaries and distributed systems
 
 ***
@@ -37,10 +37,10 @@ Interactive editor extensions for navigating complex codebases
 
 | Languages | Infrastructure | Focus Areas |
 |-----------|---------------|-------------|
-| Rust | Linux (Pop!_OS, Ubuntu) | AI Agents |
-| TypeScript | Docker, VMs | Developer Tooling |
+| Rust | Linux (Pop!_OS, Ubuntu) | Autonomous Keepers & Web3 |
+| TypeScript | Docker, VMs | AI Agents & Developer Tools |
 | Go | NVIDIA CUDA | Streaming & Media Tools |
-| Solidity | llama.cpp | Systems Programming |
+| Solidity | Subnet-EVM, RPCs | Systems Programming |
 
 ***
 
