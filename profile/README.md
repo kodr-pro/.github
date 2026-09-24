@@ -1,6 +1,6 @@
 ## Projects
 
-### [PeekPeak](https://github.com/kodr-pro/peekpeak)
+### [PeekPeak](https://github.com/kodr-pro/peekpeak-open)
 **Zero-overhead autonomous keeper engine** native to Avalanche C-Chain & L1s  
 Zero-token tax, pure native gas escrow, and sub-second execution for smart contracts
 
